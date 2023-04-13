@@ -1,0 +1,20 @@
+.imc--screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 7px solid #5e5ce5;
+  border-radius: 50%;
+  justify-content: center;
+  width: 240px;
+  height: 240px;
+  margin-bottom: 50px;
+}
+.imc-result {
+  color: #5e5ce5;
+  font-size: 64px;
+}
+.imc {
+  color: #5e5ce5;
+  font-size: 36px;
+  font-weight: 200;
+}
